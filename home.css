@@ -1,27 +1,3 @@
-<<<<<<< Updated upstream
-*{
-    box-sizing: border-box;
-}
-
-
-.filter{
-    display: none;
-}
-
-@media (max-width: 991px) {
-    .display{
-        display: none;
-    }
-    .filter{
-        display: flex;
-        border-color: blue;
-        color: blue;
-        font-weight: 500;
-        
-    }
-    
-}
-=======
 p,
 select,
 option,
@@ -588,4 +564,3 @@ img {
 .blogItem .wrapper .ti span {
   height: 60px;
 }
->>>>>>> Stashed changes
